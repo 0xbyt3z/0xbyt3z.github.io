@@ -26,13 +26,13 @@ export default function Home() {
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-left bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
       <Particles className="absolute inset-0 -z-10 animate-fade-in" quantity={100} />
       <h1 className="z-10 text-4xl text-transparent duration-1000 bg-white cursor-default animate-title font-display sm:text-6xl md:text-9xl whitespace-nowrap bg-clip-text ">
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">0</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">x</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">b</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">y</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">t</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">3</span>
-        <span className="hover:text-gray-600 border-0 transition ease-in-out duration-300">z</span>
+        <span className="border-0 transition ease-in-out duration-300">0</span>
+        <span className="border-0 transition ease-in-out duration-300">x</span>
+        <span className="border-0 transition ease-in-out duration-300">b</span>
+        <span className="border-0 transition ease-in-out duration-300">y</span>
+        <span className="border-0 transition ease-in-out duration-300">t</span>
+        <span className="border-0 transition ease-in-out duration-300">3</span>
+        <span className="border-0 transition ease-in-out duration-300">z</span>
       </h1>
 
       <div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
